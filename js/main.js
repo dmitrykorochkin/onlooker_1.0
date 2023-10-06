@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
         prevEl: ".swiper-button-prev",
         // hideOnClick: true
       },
-      observer:true
+      observer:true,
       autoplay: {
         delay: 5000
       }
