@@ -65,9 +65,9 @@ document.addEventListener("DOMContentLoaded", function() {
         // hideOnClick: true
       },
       observer:true,
-      autoplay: {
-        delay: 5000
-      }
+      // autoplay: {
+      //   delay: 5000
+      // }
     });
 
   //  *************************   Slider 360  **************************************************
