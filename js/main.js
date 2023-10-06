@@ -58,11 +58,13 @@ document.addEventListener("DOMContentLoaded", function() {
         el: ".swiper-pagination",
         type: "bullets"
       },
+      
       navigation: {
         nextEl: ".swiper-button-next",
         prevEl: ".swiper-button-prev",
         // hideOnClick: true
       },
+      observer:true
       // autoplay: {
       //   delay: 5000
       // }
