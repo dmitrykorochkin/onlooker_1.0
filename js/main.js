@@ -63,9 +63,9 @@ document.addEventListener("DOMContentLoaded", function() {
         prevEl: ".swiper-button-prev",
         // hideOnClick: true
       },
-      autoplay: {
-        delay: 5000
-      }
+      // autoplay: {
+      //   delay: 5000
+      // }
     });
 
   //  *************************   Slider 360  **************************************************
